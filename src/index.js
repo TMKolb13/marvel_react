@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 
+
 //these three lines are a given if you're using redux in your appluication, word for word
 import { Provider } from 'react-redux';
 import { createStore, applyMiddleware } from 'redux';
